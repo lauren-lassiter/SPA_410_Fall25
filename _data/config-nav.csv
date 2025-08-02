@@ -1,6 +1,7 @@
 display_name,stub,dropdown_parent
 Home,/
 Syllabus,/syllabus.html
+Schedule,/schedule.html,Syllabus
 Authors,,
 Leonor López de Córdoba (1360-1430),/leonorlopezdecordoba.html,Authors
 Álvaro de Luna (1390-1453),/alvarodeluna.html,Authors
