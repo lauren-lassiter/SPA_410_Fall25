@@ -1,7 +1,9 @@
 display_name,stub,dropdown_parent
 Home,/
-Syllabus,/syllabus.html
-Schedule,/schedule.html,Syllabus
+About (and syllabus),,
+Syllabus,/syllabus.html,About
+Schedule,/schedule.html,About
+About this project,/about.html,About
 Authors,,
 Leonor López de Córdoba (1360-1430),/leonorlopezdecordoba.html,Authors
 Álvaro de Luna (1390-1453),/alvarodeluna.html,Authors
@@ -15,4 +17,3 @@ Locations,/locations.html
 Map,/map.html
 Timeline,/timeline.html
 Data,/data.html
-About,/about.html
