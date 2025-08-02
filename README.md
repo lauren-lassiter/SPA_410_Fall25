@@ -1,5 +1,7 @@
 # CollectionBuilder-Sheets
 
+You can access a live version of this website here: https://dh-miami.github.io/SPA_410_Fall25/
+
 CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV (such as a published Google Sheet!). 
 This enables live collaboration to prototype collections with minimal set up.
 Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
