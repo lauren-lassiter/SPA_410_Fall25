@@ -9,3 +9,4 @@ For all the links below, make sure you are logged into your UMiami Google accoun
 
 * Link to edit our **glossary** spreadsheet: 
 * Link to edit our **full metadata** spreadsheet:
+* Link to our **Blackboard with readings**: 
