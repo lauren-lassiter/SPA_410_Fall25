@@ -7,6 +7,8 @@ permalink: /glossary.html
 
 <div id="glossary-container"></div>
 
+<div id="glossary-container"></div>
+
 <script>
 // Real-time Glossary Generator
 class GlossaryGenerator {
@@ -167,7 +169,7 @@ class GlossaryGenerator {
                         <tr style="background-color: #f8f9fa;">
                             <th style="border: 1px solid #ddd; padding: 12px; text-align: left; font-weight: bold;">Spanish Word</th>
                             <th style="border: 1px solid #ddd; padding: 12px; text-align: left; font-weight: bold;">English Equivalent</th>
-                            <th style="border: 1px solid #ddd; padding: 12px; text-align: left; font-weight: bold; width: 40px;">Info</th>
+                            <th style="border: 1px solid #ddd; padding: 12px; text-align: left; font-weight: bold; width: 120px;">Additional Information</th>
                         </tr>
                     </thead>
                     <tbody id="glossary-tbody">
@@ -192,16 +194,12 @@ class GlossaryGenerator {
                 tooltipContent += `<strong>Comment:</strong> ${this.escapeHtml(entry.comment)}`;
             }
 
-            const tooltipAttr = tooltipContent ? 
-                `data-tooltip="${tooltipContent.replace(/"/g, '&quot;')}"` : '';
-
             html += `
                 <tr class="glossary-row" style="${rowStyle}" data-spanish="${entry.spanish_word.toLowerCase()}" data-english="${entry.english_equivalent.toLowerCase()}">
                     <td style="border: 1px solid #ddd; padding: 10px;"><strong>${this.escapeHtml(entry.spanish_word)}</strong></td>
                     <td style="border: 1px solid #ddd; padding: 10px;">${this.escapeHtml(entry.english_equivalent)}</td>
-                    <td style="border: 1px solid #ddd; padding: 10px; text-align: center; position: relative;" ${tooltipAttr}>
-                        ${infoIcon}
-                        ${tooltipContent ? `<div class="tooltip-content" style="display: none; position: absolute; background-color: #333; color: white; padding: 8px; border-radius: 4px; font-size: 12px; white-space: nowrap; z-index: 1000; bottom: 100%; left: 50%; transform: translateX(-50%); margin-bottom: 5px; max-width: 250px; white-space: normal;">${tooltipContent}</div>` : ''}
+                    <td style="border: 1px solid #ddd; padding: 10px; text-align: center; position: relative;">
+                        ${hasAdditionalInfo ? `<span class="info-icon" style="cursor: help; color: #007cba; font-size: 16px; user-select: none;" onmouseover="showTooltip(this, '${tooltipContent.replace(/'/g, '&#39;').replace(/"/g, '&quot;')}')" onmouseout="hideTooltip()" ontouchstart="showTooltip(this, '${tooltipContent.replace(/'/g, '&#39;').replace(/"/g, '&quot;')}')" ontouchend="setTimeout(hideTooltip, 3000)">ℹ️</span>` : ''}
                     </td>
                 </tr>
             `;
@@ -211,24 +209,66 @@ class GlossaryGenerator {
                     </tbody>
                 </table>
             </div>
-            
-            <style>
-                .glossary-table td:hover .tooltip-content {
-                    display: block !important;
-                }
-                .tooltip-content::after {
-                    content: '';
-                    position: absolute;
-                    top: 100%;
-                    left: 50%;
-                    transform: translateX(-50%);
-                    border: 5px solid transparent;
-                    border-top-color: #333;
-                }
-            </style>
         `;
 
         return html;
+    }
+
+    // Add tooltip functions
+    addTooltipFunctions() {
+        // Add global tooltip functions if they don't exist
+        if (!window.showTooltip) {
+            window.showTooltip = function(element, content) {
+                // Remove any existing tooltip
+                hideTooltip();
+                
+                // Create tooltip
+                const tooltip = document.createElement('div');
+                tooltip.id = 'glossary-tooltip';
+                tooltip.innerHTML = content;
+                tooltip.style.cssText = `
+                    position: fixed;
+                    background-color: #333;
+                    color: white;
+                    padding: 10px;
+                    border-radius: 6px;
+                    font-size: 13px;
+                    max-width: 300px;
+                    z-index: 10000;
+                    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+                    pointer-events: none;
+                    line-height: 1.4;
+                `;
+                
+                document.body.appendChild(tooltip);
+                
+                // Position tooltip near mouse/element
+                const rect = element.getBoundingClientRect();
+                const tooltipRect = tooltip.getBoundingClientRect();
+                
+                let left = rect.left + (rect.width / 2) - (tooltipRect.width / 2);
+                let top = rect.top - tooltipRect.height - 10;
+                
+                // Adjust if tooltip goes off screen
+                if (left < 10) left = 10;
+                if (left + tooltipRect.width > window.innerWidth - 10) {
+                    left = window.innerWidth - tooltipRect.width - 10;
+                }
+                if (top < 10) {
+                    top = rect.bottom + 10;
+                }
+                
+                tooltip.style.left = left + 'px';
+                tooltip.style.top = top + 'px';
+            };
+            
+            window.hideTooltip = function() {
+                const tooltip = document.getElementById('glossary-tooltip');
+                if (tooltip) {
+                    tooltip.remove();
+                }
+            };
+        }
     }
 
     // Escape HTML to prevent XSS
@@ -278,6 +318,9 @@ class GlossaryGenerator {
 
             // Generate and display glossary
             container.innerHTML = this.generateGlossaryHTML(this.glossaryData);
+            
+            // Add tooltip functions
+            this.addTooltipFunctions();
             
             // Add search functionality
             this.addSearchFunctionality();
