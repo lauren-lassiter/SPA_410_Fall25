@@ -9,4 +9,6 @@ permalink: /leonorlopezdecordoba.html
 
 A rare medieval female autobiography, recounting exile and survival in a male-dominated political context.
 
+More information in: <https://archbio.miami.edu/people/leonor-lopez-de-cordoba> 
+
 
