@@ -1,7 +1,7 @@
 ---
 title: Instructions: Gloria Anzaldúa's Borderlands: A Companion Reader
 layout: page
-permalink: /instructions_final_chapter.html
+permalink: /instructions_final_project.html
 ---
 
 # Gloria Anzaldúa's Borderlands: A Companion Reader
