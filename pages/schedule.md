@@ -10,11 +10,13 @@ permalink: /schedule.html
 
 **PART I — Introduction to Digital Literacy and Life Writing**
 
-**Week 1** | **Introduction to Digital Literacy and Life Writing**
+**Week 1**
 
-| **Tu., Aug. 19  (1)** | Presentation and goals of the course. What is Life Writing? Discussion. What is DH? [What is Digital Humanities](https://drive.google.com/drive/folders/1Jqp_42Q1pe0FVAAZA5pxW-lqY23dZD3A) End of the first class: Explore a DH project.  |  | Dynamics of the course and hub for materials: GitHub  (create account and GitHub Desktop). |
-| **Th., Aug. 21  (2)** | Assignment: Introducing yourself as life-writing.  Explore [digital projects](https://docs.google.com/document/d/1Kmr75_r1DwM-GS-SIspuSAtVagrjBVDCBmmwKXUyIC4/edit?tab=t.0) (Guidelines to explore DH projects).  What digital approaches do DH projects use?  Discussion of examples by students.  |  | Upload a 1 paragraph introducing yourselves as life writing to GitHub.  Intro to Markup |
-| **Week 2** | **Introduction to Digital Literacy and Life Writing (II)** |  |  |
+| **Tu., Aug. 19  (1)** | Presentation and goals of the course. What is Life Writing? Discussion. What is DH? [What is Digital Humanities](https://drive.google.com/drive/folders/1Jqp_42Q1pe0FVAAZA5pxW-lqY23dZD3A) End of the first class: Explore a DH project.  | Dynamics of the course and hub for materials: GitHub  (create account and GitHub Desktop). |
+| **Th., Aug. 21  (2)** | Assignment: Introducing yourself as life-writing.  Explore [digital projects](https://docs.google.com/document/d/1Kmr75_r1DwM-GS-SIspuSAtVagrjBVDCBmmwKXUyIC4/edit?tab=t.0) (Guidelines to explore DH projects).  What digital approaches do DH projects use?  Discussion of examples by students.  | Upload a 1 paragraph introducing yourselves as life writing to GitHub.  Intro to Markup |
+
+**Week 2** 
+
 | **Tu., Aug. 26 (3)** | Continuation of first class, bringing further examples. Video and discussion: [Van Gogh's Three Pairs of Shoes](https://drive.google.com/drive/folders/1Jqp_42Q1pe0FVAAZA5pxW-lqY23dZD3A)  Explore [Arts+Science](https://harvardartmuseums.org/tour/39/slide/521) → How DH can help you visualizing multiple dimensions of a work (e.g. unveil and visualize the hidden stories of a painting) Video: [Computational Methods and DH](https://drive.google.com/drive/folders/1Jqp_42Q1pe0FVAAZA5pxW-lqY23dZD3A) How Digital Tools can be used to unveil voices that dissent dominant patterns throughout history?  |  | Upload a DH \+ Life Writing project to GitHub and summarize key points.  How to use GitHub Pages and how to collaborate.   |
 | **Th. Aug. 28 (4)** | How to transform a biography into data? Video: What is Data?  Exercise: How to create categories of analysis.   Introducing the first autobiographical text in Spanish: **Leonor López de Córdoba.**  |  | Jekyll basics |
 | **Part I: Writing Lives in the Medieval Ages** |  |  |  |
