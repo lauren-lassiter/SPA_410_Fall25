@@ -3,22 +3,23 @@ title: Syllabus
 layout: page
 permalink: /syllabus.html
 ---
-# Syllabus
+# Syllabus 
 
-## **SPA 410 / MLL 410 (Section P): Digital Literacy through Cultural and Literary Topics: Digital Approaches to Life Writing**
+## Digital Literacy through Cultural and Literary Topics: Digital Approaches to Life Writing**
 
 **Instructors: Susanna Allés-Torrent, Euge Stumm** 
 
 Prerequisite: [WRS 106](https://bulletin.miami.edu/search/?P=WRS%20106) or [ENG 106](https://bulletin.miami.edu/search/?P=ENG%20106) or [WRS 107](https://bulletin.miami.edu/search/?P=WRS%20107) or ENG 107\.  
 Prerequisite: [SPA 301](https://bulletin.miami.edu/search/?P=SPA%20301) or [SPA 302](https://bulletin.miami.edu/search/?P=SPA%20302) or [SPA 303](https://bulletin.miami.edu/search/?P=SPA%20303) or [SPA 307](https://bulletin.miami.edu/search/?P=SPA%20307).  
-When: Tu/Th 11:00-12:15pm   
+When: Tu/Th 11:00-12:15pm (Section P)  
 Where: Merrick 205  
 Office Hours: Tu. and Th. 12:30PM-1:30PM & By Appointment (Merrick 210.23)
 
 ## **1\. Description**
 
-In this hands-on course, we will explore how individuals narrate their own lives, and the lives of others, and how digital methods are transforming the ways we study these narratives. Focusing on *life writing* as a genre—including autobiography, biography, letters, memoirs, diaries, and testimonies—we will trace its evolution over time and examine it through the lens of digital humanities. By treating texts as data, students will learn computational methods for collecting, annotating, analyzing, and interpreting life-writing materials, while also engaging critically with broader cultural, historical, and ethical issues. We will ask: How do digital approaches change our understanding of life writing? What biases exist in the digitization of marginalized voices? How can we use digital methods ethically and responsibly in studying personal texts?   
-We will examine autobiographical and biographical writings that challenge dominant and non canonical narratives. We will read works by medieval and early modern figures such as Leonor López de Córdoba, Álvaro de Luna, Afro-Iberian, queer, or Indigenous voices, such as Catalina de Erauso, Felipe Guamán Poma, and Juan Francisco Manzano, and contemporary authors, such as Gloria Anzaldúa.At the same time, students will experiment with a range of digital tools and methods that extend and enrich our readings. Topics covered include: Text encoding and annotation, Text mining and topic modeling, Digital mapping, Named entity recognition, Digital storytelling, and Digital publishing. The course also considers critical debates in life writing and digital humanities, such as self-representation in data-driven analysis, the ethics of digital archival work, and the challenges of computationally interpreting personal narratives. 
+In this hands-on course, we will explore how individuals narrate their own lives, and the lives of others, and how digital methods are transforming the ways we study these narratives. Focusing on *life writing* as a genre—including autobiography, biography, letters, memoirs, diaries, and testimonies—we will trace its evolution over time and examine it through the lens of digital humanities. By treating texts as data, students will learn computational methods for collecting, annotating, analyzing, and interpreting life-writing materials, while also engaging critically with broader cultural, historical, and ethical issues. We will ask: How do digital approaches change our understanding of life writing? What biases exist in the digitization of marginalized voices? How can we use digital methods ethically and responsibly in studying personal texts?  
+
+We will examine autobiographical and biographical writings that challenge dominant and non canonical narratives. We will read works by medieval and early modern figures such as Leonor López de Córdoba, Álvaro de Luna, Afro-Iberian, queer, or Indigenous voices, such as Catalina de Erauso, Felipe Guamán Poma, and Juan Francisco Manzano, and contemporary authors, such as Gloria Anzaldúa. At the same time, students will experiment with a range of digital tools and methods that extend and enrich our readings. Topics covered include: Text encoding and annotation, Text mining and topic modeling, Digital mapping, Named entity recognition, Digital storytelling, and Digital publishing. The course also considers critical debates in life writing and digital humanities, such as self-representation in data-driven analysis, the ethics of digital archival work, and the challenges of computationally interpreting personal narratives. 
 
 The course is taught in English, but working documents will be in Spanish, so previous knowledge of Spanish is strongly recommended. Finally, this course is ideal for students interested in literature, history, gender studies, digital humanities, and cultural studies. No prior technical experience is required, just curiosity and a willingness to explore new ways of engaging with texts and digital data.
 
@@ -30,23 +31,23 @@ By the end of the course, students will:
 * Engage deeply with autobiographical texts through close reading and contextual analysis.  
 * Learn and apply digital methods (e.g., text encoding, mapping, text mining) to analyze and interpret life-writing materials.  
 * Reflect on the ethical, political, and epistemological implications of treating personal narratives as data.  
-* Gain technical skills in text encoding, digital annotation, data visualization, and computational text analysis.  
-* Collaborate using digital platforms such as GitHub and Jekyll to create and share scholarly materials.  
+* Gain technical skills in semantic annotation, data visualization, and computational text analysis.  
+* Collaborate using digital platforms such as GitHub, GitHub Pages, and Collection Builder to create and share scholarly materials.  
 * Produce a final digital project that demonstrates their ability to integrate literary interpretation with digital methods.
 
 ## **3\. Grading** 
 
 | What?  | % | Description | When? |
 | ----- | :---: | ----- | ----- |
-| Self-assessment 1st third of the semester … 5% 2nd third of the semester … 5% 3rd third of the semester … 5% | 15% | See Self-Assessment and Grading Reflection below | Sept. 16, 2025 Oct. 9, 2025 Nov. 4, 2025  |
+| Self-assessment (3 times) | 15% | See *Self-Assessment and Grading Reflection* below | Sept. 16, 2025; Oct. 9, 2025; Nov. 4, 2025  |
 | Attendance and Participation | 10% | Just come to class, come prepared, do the homework and complete the assignments :)  |  |
 | Glossary   | 5% | Throughout the semester you will have to populate a collaborative Glossary for new terms (English-Spanish) |  |
-| Leonor López de Córdoba’s project Critical notes: 60% Semantic tagging: 40% | 10% | Semantic Annotation with Recogito  | Sept. 11, 2025 |
+| Leonor López de Córdoba’s project (Critical notes: 60%; Semantic tagging: 40%) | 10% | Semantic Annotation with Recogito  | Sept. 11, 2025 |
 | Álvaro de Luna’s project  | 10% | Digital experiments on text mining and short Essay: From Close to Distant Reading with Voyant and AntConc | Sept. 25, 2025  |
 | Catalina de Erauso’s project | 10% | Collaborative Storymaps with Leaflet | Oct. 9, 2025  |
 | Guamán Poma’s project | 10% | Topic Modelling and Image Annotation | Oct. 23, 2025  |
 | Juan Francisco Manzano’s project | 10% | AI and textual experiments with LLM and Chat4All.  | Oct. 30, 2025 |
-| Final Project			 	Professors’ grading … 10% 	General Self-assessment  10% | 20% | Collaborative project.  | Dec. 4, 2025 |
+| Final Project	(Professors’ grading 10%; General Self-assessment  10%) | 20% | Collaborative project.  | Dec. 4, 2025 |
 | TOTAL:  | 100 |  |  |
 
 		
@@ -62,7 +63,7 @@ At the end of the course, you’ll submit a final self-assessment explaining wha
 
 ### **Primary and secondary readings**
 
-All primary texts and secondary readings will be accessible online—either freely available on the internet or through our **University of Miami Richter Library’s digital holdings**. In most cases, we will work with selected excerpts rather than full texts. These selections will be indicated by the instructor in advance and provided in the appropriate format (PDF, plain text, TEI/XML, etc.) on our course GitHub or website.
+All primary texts and secondary readings will be accessible online—either freely available on the internet or through our [University of Miami Richter Library’s digital holdings](https://www.library.miami.edu/). In most cases, we will work with selected excerpts rather than full texts. These selections will be indicated by the instructor in advance and provided in the appropriate format (PDF, plain text, TEI/XML, etc.) on our course GitHub or website.
 
 1. Leonor López de Córdoba, *Memorias* (c. 1400\)  
 2. Álvaro de Luna, *Libro de las virtuosas e claras mugeres* (15th century)  
@@ -160,14 +161,13 @@ We recognize that this is an intellectually demanding course, but it is not a la
 
 If you encounter any language-related challenges—such as unfamiliar vocabulary, grammar questions, or difficulty understanding expressions—please don’t hesitate to ask. Language questions are always welcome, and we’re here to support you.
 
-As part of your learning, you will also be asked to build a **collective glossary** to track terms and expressions that you find challenging. This glossary should include at least **30 entries**, focusing on bilingual academic vocabulary relevant to our course (e.g., *encoding* → *codificación*). This will serve as a valuable resource for your development as a reader and writer across languages.
+As part of your learning, you will also be asked to build a [collective glossary](https://dh-miami.github.io/SPA_410_Fall25/glossary.html) to track terms and expressions that you find challenging. This glossary should include at least **30 entries**, focusing on bilingual academic vocabulary relevant to our course (e.g., *encoding* → *codificación*). This will serve as a valuable resource for your development as a reader and writer across languages.
 
 ## **9\. We are Here for You** 
 
 Throughout the semester, you might encounter challenges—whether related to the course material, technology, or assignments—and we want you to know that we’re here to help. Our office doors are always open when we’re around, and we’re more than happy to sit down with you to troubleshoot, discuss your work, or simply talk things through.
 
-**Office/Student Hours**: Tuesdays and Thursdays, **12:00–1:30 PM**  
-You’re also welcome to make an appointment with us outside those times, either in person or via Zoom. Please don’t hesitate to reach out\!
+**Office/Student Hours**: Tuesdays and Thursdays, **12:00–1:30 PM**. You’re also welcome to make an appointment with us outside those times, either in person or via Zoom. Please don’t hesitate to reach out\!
 
 ## **10\. Honor Code** 
 
@@ -179,39 +179,4 @@ If you choose to use AI tools such as ChatGPT to support your work, you must cle
 
 We strongly encourage you to review the **University of Miami Honor Code**, which outlines expectations for academic conduct: [UM Undergraduate Honor Code (PDF)](https://doso.studentaffairs.miami.edu/_assets/pdf/honor-council/the-undergraduate-honor-code.pdf). 
 
-
-
-## **11\. Resources**
-
-* University writing center  
-* Tech support or DH lab (if available)  
-* Accessibility services  
-* Chat GPT, Copilot?   
-* Library and research support (especially for DH tools or special collections  
-* Other works left behind:   
-- Juan Garrido, el conquistador negro en las Antillas, Florida, México y California,1503-1540. [https://archive.org/embed/juan-garrido-by-ricardo-alegria-1990-san-juan-puerto-rico](https://archive.org/embed/juan-garrido-by-ricardo-alegria-1990-san-juan-puerto-rico)   
-- Biographies of soldiers (c. 1500\)  
-- Teresa de Ávila, *Libro de la vida* (1562-65)  
-  - A deeply personal and mystical account, subverting ecclesiastical norms by positioning a woman as a religious authority.  
-- Juana de la Cruz, *Autobiografía* (early 16th century)  
-  - A visionary mystic who, in her sermons, described gender-fluid spiritual experiences and was revered as a Christ-like figure by her followers.  
-- Sor María de Jesús de Ágreda, *Mística ciudad de Dios* (1670s)  
-  - A nun who, through mystical visions, claimed to have evangelized Indigenous people in the Americas without leaving Spain.  
-- Garcilaso de la Vega, *Comentarios reales de los incas* (1609, 1617\)  
-  - A mestizo writer reclaiming Incan history and challenging Spanish colonial narratives.
-
-- María Zambrano, *Delirio y destino* (written 1953, published 1989).   
-  - A memoir of exile by a Spanish philosopher who critiqued Franco’s dictatorship and patriarchal structures.  
-- Montserrat Roig, *Dime que me quieres aunque sea mentira* (1991).   
-  - A feminist reflection on writing, memory, and the politics of gender.  
-- Rosa Montero, [*La ridícula idea de no volver a verte*](https://tanatologiaholistica.com/wp-content/uploads/2025/02/La-Ridicula-Idea-de-no-Volver-a-verte.pdf) (2013).   
-  - A feminist and intellectual memoir, linking personal grief with the life of Marie Curie.  
-- Lina Meruane, [*Volverse Palestina*](https://repository.rice.edu/server/api/core/bitstreams/fb37a80f-c8f3-481e-a28e-11885c71d0bc/content) (2014).  
-  - A powerful memoir exploring Jewish-Palestinian identity, migration, and intersectional belonging.  
-- Brigitte Vasallo, [*Pensamiento monógamo, terror poliamoroso*](https://ipfs.io/ipfs/QmZXYhY4BQGnPzEr43q66HbUHHdgJz2yRZ5zuJjTsJwN83?filename=Vasallo_Brigitte-Pensamiento_monogamo.pdf) (2018).  
-  - A queer feminist critique of relationships, gender, and normativity in contemporary Spain.  
-- Paul [Preciado, *Un apartamento en Urano: Crónicas del cruce*](https://laboratoriodesensibilidades.wordpress.com/wp-content/uploads/2019/09/paul-b.-preciado-un-apartamento-en-urano.-crc3b3nicas-del-cruce.-anagrama-2019.pdf) (2019).  
-  - A collection of chronicles of a Spanish trans man and his process of gender transition.  
-- Camila Sosa Villada, *Las Malas* (2019).   
-  - Autobiographical novel written by an Argentinian travesti, accounting the experiences of *travestismo* and marginalization
 
