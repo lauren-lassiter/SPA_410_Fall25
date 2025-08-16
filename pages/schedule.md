@@ -9,7 +9,7 @@ permalink: /schedule.html
 
 | Week and date | Topics |  | Technology used |
 | ----- | ----- | ----- | ----- |
-| **PART I — Introduction to Digital Literacy and Life Writing**  |  |  |  |
+| **PART I — Introduction to Digital Literacy and Life Writing**  |
 | **Week 1** | **Introduction to Digital Literacy and Life Writing (I)** |  |  |
 | **Tu., Aug. 19  (1)** | Presentation and goals of the course. What is Life Writing? Discussion. What is DH? [What is Digital Humanities](https://drive.google.com/drive/folders/1Jqp_42Q1pe0FVAAZA5pxW-lqY23dZD3A) End of the first class: Explore a DH project.  |  | Dynamics of the course and hub for materials: GitHub  (create account and GitHub Desktop). |
 | **Th., Aug. 21  (2)** | Assignment: Introducing yourself as life-writing.  Explore [digital projects](https://docs.google.com/document/d/1Kmr75_r1DwM-GS-SIspuSAtVagrjBVDCBmmwKXUyIC4/edit?tab=t.0) (Guidelines to explore DH projects).  What digital approaches do DH projects use?  Discussion of examples by students.  |  | Upload a 1 paragraph introducing yourselves as life writing to GitHub.  Intro to Markup |
