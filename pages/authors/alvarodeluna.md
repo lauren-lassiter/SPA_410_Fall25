@@ -15,6 +15,8 @@ In our course, we will engage with Luna’s text not only through close reading 
 
 To enrich our discussion, we will welcome a guest speaker, [Elizabeth Cornick](https://english.as.miami.edu/phd-program/current-phd-students/index.html), who will bring her English class to our session. She will share a fascinating digital experiment in visualizing the relationships between women, their virtues, and their male analogues—figures mentioned in the biographies as parallels or comparisons.
 
+The text that we will use for our course is: Álvaro de Luna, *Virtuosas e claras mugeres* (1446). Ed. by Lola Pons Rodríguez. Segovia: Junta de Castilla y León, Fundación Instituo Castellano y Leonés de la Lengua, 2008. [Online](http://lolapons.es/wp-content/uploads/downloads/2011/10/Pons_2008_VirtuosasCM.pdf).
+
 ## Resources 
 
 - "[Álvaro de Luna](https://es.wikipedia.org/wiki/%C3%81lvaro_de_Luna)" (Wikipedia)
