@@ -5,7 +5,7 @@ permalink: /syllabus.html
 ---
 # Syllabus 
 
-## Digital Literacy through Cultural and Literary Topics: Digital Approaches to Life Writing**
+## Digital Literacy through Cultural and Literary Topics: Digital Approaches to Life Writing
 
 **Instructors: Susanna Allés-Torrent, Euge Stumm** 
 
@@ -65,7 +65,8 @@ At the end of the course, you’ll submit a final self-assessment explaining wha
 
 All primary texts and secondary readings will be accessible online—either freely available on the internet or through our [University of Miami Richter Library’s digital holdings](https://www.library.miami.edu/). In most cases, we will work with selected excerpts rather than full texts. These selections will be indicated by the instructor in advance and provided in the appropriate format (PDF, plain text, TEI/XML, etc.) on our course GitHub or website.
 
-1. Leonor López de Córdoba, *Memorias* (c. 1400\)  
+1. López de Córdoba, Leonor. *Memorias*, ed. by María-Milagros Rivera Garretas and Christopher C. Oechler, Open Educational Resources. 6 (2018)
+https://cupola.gettysburg.edu/oer/6 
 2. Álvaro de Luna, *Libro de las virtuosas e claras mugeres* (15th century)  
 3. Catalina de Erauso, *La monja alférez* (c. 1600\)  
 4. Felipe Guamán Poma de Ayala, *Nueva corónica y buen gobierno* (c. 1615\)  
