@@ -16,7 +16,7 @@ To better understand her remarkable journey, we will engage in a collaborative s
 
 The edition used for our course is: Catalina de Erauso. *Vida y sucesos de la Monja Alférez*. Ed. by Miguel Martínez. Clásicos Castalia, 2021. 
 
-An online version of text is also available [here](https://www.cervantesvirtual.com/obra/historia-de-la-monja-alferez/): Catalina de Erauso, Historia de la monja Alférez. Lima, Biblioteca Nacional del Perú, 1988 (Alicante : Biblioteca Virtual Miguel de Cervantes, 2001). 
+An online version of text is also available [here](https://www.cervantesvirtual.com/obra/historia-de-la-monja-alferez/): Catalina de Erauso, *Historia de la monja Alférez*. Lima, Biblioteca Nacional del Perú, 1988 (Alicante : Biblioteca Virtual Miguel de Cervantes, 2001). 
 
 ## Resources 
 
