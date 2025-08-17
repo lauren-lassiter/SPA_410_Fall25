@@ -5,7 +5,7 @@ permalink: /alvarodeluna.html
 ---
 # Álvaro de Luna, *Libro de las virtuosas e claras mugeres* (1446)
 
-![Retrato de Álvaro de Luna († 1453), que fue maestre de la Orden de Santiago y condestable de Castilla, en el retablo de la capilla de Santiago de la catedral de Toledo](https://upload.wikimedia.org/wikipedia/commons/3/3f/Alvaro_de_luna.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Alvaro_de_luna.jpg" alt="Retrato de Álvaro de Luna († 1453), que fue maestre de la Orden de Santiago y condestable de Castilla, en el retablo de la capilla de Santiago de la catedral de Toledo" style="width:320px; float:left;  margin-right:10px">
 
 Álvaro de Luna (between 1388 and 1390 – 2 June 1453) was one of the most powerful political figures in 15th-century Castile: Constable of the kingdom, royal favorite, and a central player in the turbulent politics of King Juan II’s court. And yet, in the final years of his life, this man of war and diplomacy turned to writing, a remarkable act in itself! Even more surprising is the subject of his only known literary work: a collection of biographies dedicated entirely to women. His *Libro de las virtuosas e claras mugeres* (Book of Virtuous and Illustrious Women) is a unique and fascinating text, often described as one of the earliest feminist works in the Iberian tradition.
 
