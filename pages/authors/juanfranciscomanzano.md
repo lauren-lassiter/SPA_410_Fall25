@@ -3,7 +3,7 @@ title: Juan Francisco Manzano
 layout: page
 permalink: /juanfranciscomanzano.html
 ---
-# Juan Francisco Manzano, Autobiografía de un esclavo (1839)
+# Juan Francisco Manzano, *Autobiografía de un esclavo* (1839)
 
 Juan Francisco Manzano (1797–1854) is a unique and powerful voice from 19th-century Cuba and the only known autobiography of an enslaved person written in Spanish from the colonial period. Born into slavery in Havana, Manzano learned to read and write under extraordinary circumstances and became a poet. His *Autobiografía de un esclavo* (1839) is a heart-breaking and eloquent account of life under slavery, told not by an outsider or historian, but by the enslaved person himself.
 
