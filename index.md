@@ -3,7 +3,7 @@ layout: home-infographic
 title: Home
 ---
 
-Welcome to our course: Digital Literacy through Cultural and Literary Topics!! 
+¡Bienvenidos! Welcome to our course: Digital Literacy through Cultural and Literary Topics!! 
 
 This is the official website for our Fall 2025 course, built in connection with our [GitHub repository](https://github.com/dh-miami/SPA_410_Fall25/). Here, you will find our syllabus, readings, digital resources, and the students' contributions. Throughout the semester, students will publish and share their work here as part of a collaborative, hands-on learning experience.
 
