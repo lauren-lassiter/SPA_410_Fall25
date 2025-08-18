@@ -3,7 +3,6 @@ layout: post
 title: "Post con todos los estilos de contenido en markdown"
 author: "Susanna Alles Torrent"
 date: 2025-08-18
-permalink: /blog/
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
