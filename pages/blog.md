@@ -4,8 +4,6 @@ title: Blog
 permalink: /blog/
 ---
 
-<h1>Course Blog</h1>
-
 <h1>Blog Posts by Exercise</h1>
 
 {% assign posts_by_exercise = site.posts | group_by: "exercise" %}
@@ -14,25 +12,8 @@ permalink: /blog/
   <ul>
     {% for post in group.items %}
       <li>
-        <a href="{{ post.baseurl }}">{{ post.title }}</a> — {{ post.date | date: "%B %d, %Y" }}
+        {{ post.author}}, <a href="{{ post.baseurl }}">{{ post.title }}</a> — {{ post.date | date: "%B %d, %Y" }}
       </li>
     {% endfor %}
   </ul>
 {% endfor %}
-
-
-
-==========================
-
-{% if page.subject %}
-<p><strong>Subject:</strong> {{ page.subject }}</p>
-{% endif %}
-
-
-<ul>
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> » {{ post.author}}, 
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
