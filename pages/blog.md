@@ -12,8 +12,9 @@ permalink: /blog/
   <ul>
     {% for post in group.items %}
       <li>
-        {{ post.author}}, <a href="{{ post.baseurl }}">{{ post.title }}</a> — {{ post.date | date: "%B %d, %Y" }}
+        {{ post.author}}, <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> — {{ post.date | date: "%B %d, %Y" }}
       </li>
     {% endfor %}
   </ul>
 {% endfor %}
+
