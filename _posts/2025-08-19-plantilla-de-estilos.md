@@ -1,11 +1,7 @@
 ---
 layout: post
 title: "Post con todos los estilos de contenido en markdown"
-categories: exercise
-author:
-- Susanna Alles Torrent
-- Euge Stumm
-meta: "Exercises"
+author: "Susanna Alles Torrent"
 date: 2025-08-19
 ---
 
