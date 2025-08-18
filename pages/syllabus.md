@@ -3,7 +3,7 @@ title: Syllabus
 layout: page
 permalink: /syllabus.html
 ---
-# Syllabus 
+# Syllabus  
 
 ## Digital Literacy through Cultural and Literary Topics: Digital Approaches to Life Writing
 
@@ -14,6 +14,7 @@ Prerequisite: [SPA 301](https://bulletin.miami.edu/search/?P=SPA%20301) or [SPA 
 When: Tu/Th 11:00-12:15pm (Section P)  
 Where: Merrick 205  
 Office Hours: Tu. and Th. 12:30PM-1:30PM & By Appointment (Merrick 210.23)
+Download [syllabus and schedule in PDF](https://github.com/dh-miami/SPA_410_Fall25/blob/main/assets/pdf/SPA-MLL_410_Syllabus.pdf).
 
 ## **1\. Description**
 
@@ -153,7 +154,11 @@ Please note: The class will not be recorded under any circumstances.
 
 ### **Laptops**
 
-You must bring all assigned readings and materials to class, as well as your laptop. However, laptops will only be used during hands-on exercises. During reading discussions and instructor explanations, we ask that you take notes by hand to foster focus and minimize distractions. If you do not own a laptop or cannot bring one to class, please let us know in advance so we can make arrangements to use the computers available in our classroom.
+You must bring all assigned readings and materials to class, as well as your laptop. However, laptops will only be used during hands-on exercises. During reading discussions and instructor explanations, we ask that you take notes by hand to foster focus and minimize distractions. Do not mirror your phone in your laptop during class and avoid the use of instant messaging apps in your laptop. To ensure the best quality of attention during our class, intrusive notifications in your laptop must be turned off. If you do not own a laptop or cannot bring one to class, please let us know in advance so we can make arrangements to use the computers available in our classroom.
+
+**Smartphones (do not use)**
+
+Students are not allowed to utilize smartphones or other portable digital devices with intrusive notifications during class. If you urgently need to receive a call or send a message, please, leave the classroom to do so and return as soon as possible. Otherwise, do not make calls, check your phone, or text phone messages during class. Exceptions for this rule require that students provide medical documents or formal letters from Center for Disability Services stating that the use of smartphones or portable digital devices with intrusive notifications are needed in the classroom. This choice serves for guiding the best quality of your attention to the work with your peers and instructors during class.
 
 ## **8\. The language of the course**
 
@@ -173,6 +178,8 @@ As part of your learning, you will also be asked to build a [collective glossary
 Throughout the semester, you might encounter challenges—whether related to the course material, technology, or assignments—and we want you to know that we’re here to help. Our office doors are always open when we’re around, and we’re more than happy to sit down with you to troubleshoot, discuss your work, or simply talk things through.
 
 **Office/Student Hours**: Tuesdays and Thursdays, **12:00–1:30 PM**. You’re also welcome to make an appointment with us outside those times, either in person or via Zoom. Please don’t hesitate to reach out\!
+
+**Students with disabilities**: Students with disabilities are to provide official documentation from the Office of Disability Services to instructors at the beginning of the semester in order to request any relevant accommodations.
 
 ## **10\. Honor Code** 
 

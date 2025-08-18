@@ -7,7 +7,7 @@ permalink: /schedule.html
 
 ## **11\. Course Schedule**
 
-Download syllabus and schedule. 
+Download [syllabus and schedule in PDF](https://github.com/dh-miami/SPA_410_Fall25/blob/main/assets/pdf/SPA-MLL_410_Syllabus.pdf). 
 
 | Week and date | Topics | Technology used |
 | ----- | ----- | ----- |
