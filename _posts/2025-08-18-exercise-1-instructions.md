@@ -8,8 +8,8 @@ exercise: "Ejercicio 1 Un párrafo sobre mí - Exercise 1 A Paragraph of Me"
 
 ## 🟨 Ejercicio 1: Un párrafo sobre mí (Instrucciones)
 
-**Fecha de entrega**: 21-08-2025 (antes de clase)
-**Extensión**: Aproximadamente 1 párrafo (200 palabras)
+**Fecha de entrega**: 21-08-2025 (antes de clase) <br/>
+**Extensión**: Aproximadamente 1 párrafo (200 palabras)<br/>
 **Entrega**: Como entrada en el Lab vía GitHub, <https://github.com/dh-miami/SPA_410_Fall25/tree/main/_posts>
 
 ### ¿Qué hacer?
