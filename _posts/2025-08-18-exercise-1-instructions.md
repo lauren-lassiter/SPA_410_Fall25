@@ -6,12 +6,10 @@ date: 2025-08-18
 exercise: "Ejercicio 1 Un párrafo sobre mí - Exercise 1 A Paragraph of Me"
 ---
 
-## Ejercicio 1: Un párrafo sobre mí (Instrucciones)
+## 🟨 Ejercicio 1: Un párrafo sobre mí (Instrucciones)
 
 **Fecha de entrega**: 21-08-2025 (antes de clase)
-
 **Extensión**: Aproximadamente 1 párrafo (200 palabras)
-
 **Entrega**: Como entrada en el Lab vía GitHub, <https://github.com/dh-miami/SPA_410_Fall25/tree/main/_posts>
 
 ### ¿Qué hacer?
@@ -41,12 +39,10 @@ Para comenzar nuestra exploración sobre escrituras biográficas, te pedimos que
 
 ================================
 
-## Exercise 1: A Paragraph on Me (Instructions)
+## 🟦 Exercise 1: A Paragraph on Me (Instructions)
 
 **Deadline**: 08-21-2025 (Before class)
-
 **Length**: Approximately 1 paragraph (200 words)
-
 **Submition**: As a Lab post via GitHub, <https://github.com/dh-miami/SPA_410_Fall25/tree/main/_posts>
 
 ### What to do:
