@@ -15,5 +15,5 @@ Considering the temporal and geographical proximity of Anzaldúa's work, and the
 
 ## Resources
 
-* [Borderlands/La Frontera: The New Mestiza (wikipedia](https://en.wikipedia.org/wiki/Borderlands/La_Frontera:_The_New_Mestiza)
+* [Borderlands/La Frontera: The New Mestiza (Wikipedia)](https://en.wikipedia.org/wiki/Borderlands/La_Frontera:_The_New_Mestiza)
 * [Gloria Anzaldúa Research Guide by University of Texas, Rio Grande Valley](https://utrgv.libguides.com/SCA/gloria)
