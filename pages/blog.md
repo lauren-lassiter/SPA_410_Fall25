@@ -6,12 +6,11 @@ permalink: /blog/
 
 <h1>Course Blog</h1>
 
-<ul class="post-list">
+<ul>
   {% for post in site.posts %}
-  <li>
-    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-    <p><small>{{ post.date | date: "%B %d, %Y" }}</small></p>
-    <p>{{ post.excerpt }}</p>
-  </li>
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a><br />
+      <small>{{ post.date | date: "%B %d, %Y" }}</small>
+    </li>
   {% endfor %}
 </ul>
