@@ -29,6 +29,7 @@ description: "Welcome to our course: Digital Literacy through Cultural and Liter
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Profs. Susanna Allés-Torrent and Euge Stumm
 baseurl: "/SPA_410_Fall25"
+permalink: /:year/:month/:day/:title:output_ext
 
 ##########
 # COLLECTION SETTINGS
