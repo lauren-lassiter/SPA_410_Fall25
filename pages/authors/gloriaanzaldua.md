@@ -13,4 +13,7 @@ As a [Chicana](https://en.wikipedia.org/wiki/Chicano), Anzaldúa challenged the 
 
 Considering the temporal and geographical proximity of Anzaldúa's work, and the linguistic challenges from her writing that are proper to a bilingual class, our final project will examine *Borderlands/La Frontera* to develop a Companion Reader. [Instruction for the final project are available here.](https://dh-miami.github.io/SPA_410_Fall25/instructions_final_project.html) 
 
-==This is a webpage for Gloria Anzaldúa. We will develop the content of this webpage together in class!==
+## Resources
+
+* [Borderlands/La Frontera: The New Mestiza (wikipedia](https://en.wikipedia.org/wiki/Borderlands/La_Frontera:_The_New_Mestiza)
+* [Gloria Anzaldúa Research Guide by University of Texas, Rio Grande Valley](https://utrgv.libguides.com/SCA/gloria)
