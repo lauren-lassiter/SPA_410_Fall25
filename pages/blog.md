@@ -5,6 +5,7 @@ permalink: /blog/
 ---
 
 <h1>Course Blog</h1>
+
 <p>This blog showcases posts written by students, organized by topic or assignment.</p>
 
 {% assign grouped_posts = site.posts | group_by: "exercise" %}
@@ -13,7 +14,7 @@ permalink: /blog/
   <ul>
     {% for post in group.items %}
       <li>
-        <a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%B %d, %Y" }}
+        <a href="{{ post.baseurl }}">{{ post.title }}</a> – {{ post.date | date: "%B %d, %Y" }}
       </li>
     {% endfor %}
   </ul>
