@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Post con todos los estilos de contenido en markdown"
-categories: junk
+categories: exercise
 author:
-- Tu nombre
-- Nelson Mandela Muntz
-meta: "Springfield"
-date: 2021-08-23
+- Susanna Alles Torrent
+- Euge Stumm
+meta: "Exercises"
+date: 2025-08-19
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
