@@ -6,15 +6,15 @@ permalink: /blog/
 
 <h1>Course Blog</h1>
 
-<p>This blog showcases posts written by students, organized by topic or assignment.</p>
+<h1>Blog Posts by Exercise</h1>
 
-{% assign grouped_posts = site.posts | group_by: "exercise" %}
-{% for group in grouped_posts %}
-  <h2>{{ group.name }}</h2>
+{% assign posts_by_exercise = site.posts | group_by: "exercise" %}
+{% for group in posts_by_exercise %}
+  <h2 id="{{ group.name | slugify }}">{{ group.name }}</h2>
   <ul>
     {% for post in group.items %}
       <li>
-        <a href="{{ post.baseurl }}">{{ post.title }}</a> – {{ post.date | date: "%B %d, %Y" }}
+        <a href="{{ post.baseurl }}">{{ post.title }}</a> — {{ post.date | date: "%B %d, %Y" }}
       </li>
     {% endfor %}
   </ul>

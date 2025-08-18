@@ -1,5 +1,7 @@
 ---
+layout: page
 title: "Paragraph about myself"
+author: "Susanna Alles Torrent"
 date: 2025-10-01
 exercise: "Exercise 1"
 ---
