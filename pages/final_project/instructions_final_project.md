@@ -20,13 +20,13 @@ The class will be divided into three **groups**. Some tasks will be assigned to 
   * **Group 2** will be responsible for **chapter 3**  
   * **Group 3** will be responsible for **chapter 5** 
 
-## **Chapter 1**
+### **Chapter 1**
 
 All students will work on developing a **StoryMap** of chapter 1, in which their task is to contextualize the role of the places and references mentioned by Alzadúa. Literature review will be essential for this part, as further references are needed for contextualizing the role of each place in Anzaldúa’s writing. We will have one entire class dedicated to discussing and working on this chapter. 
 
 For example, in the first chapter of *Borderlands*, Anzaldúa utilizes many geographical references in her writing, though not necessarily following a chronological order. Furthermore, some of the references are mentioned *en passant*, that is, without providing the reader with further details. One of the tasks of working on this chapter is reflecting on how we can use maps to serve as a companion material when temporality can not necessarily be used as the only guiding line. 
 
-## **Chapters 2, 3, and 5**
+### **Chapters 2, 3, and 5**
 
 **Instructions for everyone:** All students will read all chapters, though each group will be responsible for one chapter of the production of the companion materials.  Students who are not part of the responsible group will contribute to that chapter by adding questions and providing feedback on the parts of the text that could assist the group responsible for the chapter. We will utilize Recogito to annotate each chapter. For example, what things did you struggle with and could benefit from if someone could clarify them to you? Or, on the other hand, what references could you understand that might not be clear to other people and you could share with your peers? The work in Digital Humanities is vastly collaborative, take this opportunity to be generous to your peers\!
 
