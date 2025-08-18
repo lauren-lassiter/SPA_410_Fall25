@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: Lab
+permalink: /lab/
 ---
 
 <h1>Blog Posts by Exercise</h1>
