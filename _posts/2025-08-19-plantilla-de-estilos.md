@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Post con todos los estilos de contenido en markdown"
 author: "Susanna Alles Torrent"
 date: 2025-08-18
