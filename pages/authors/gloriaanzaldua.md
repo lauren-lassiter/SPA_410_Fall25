@@ -11,4 +11,6 @@ Though written in the U.S.-Mexico context, Anzaldúa’s work reflects Iberian l
 
 As a [Chicana](https://en.wikipedia.org/wiki/Chicano), Anzaldúa challenged the U.S. American and Mexican canons, taking her autobiographical experiences as sources for philosophical reflection and critical analysis of her surroundings. Honoring the bilingual title, *Borderlands/La Frontera* defies the borders between English and Spanish in writing where content and medium are inseparable. The code switching in Anzaldúa creates a work that is truly hard to translate: Would it be a translation from Spanish or English? Could it be translated from one language to the other? Rather than assimilating into Spanish or English, or Mexican or U.S. American, Anzaldúa bets on the borderlands as her answer to the impasses that develop in her writing. 
 
+Considering the temporal and geographical proximity of Anzaldúa's work, and the linguistic challenges from her writing that are proper to a bilingual class, our final project will examine *Borderlands/La Frontera* to develop a Companion Reader. [Instruction for the final project are available here.](https://dh-miami.github.io/SPA_410_Fall25/instructions_final_project.html) 
+
 ==This is a webpage for Gloria Anzaldúa. We will develop the content of this webpage together in class!==
