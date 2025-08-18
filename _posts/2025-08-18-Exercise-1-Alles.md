@@ -2,7 +2,7 @@
 layout: page
 title: "Paragraph about myself"
 author: "Susanna Alles Torrent"
-date: 2025-10-01
+date: 2025-08-18
 exercise: "Exercise 1"
 ---
 
