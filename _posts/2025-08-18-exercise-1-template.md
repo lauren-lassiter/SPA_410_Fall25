@@ -3,7 +3,7 @@ layout: page
 title: "Un párrafo sobre mí"
 author: "Susanna Alles Torrent"
 date: 2025-08-18
-exercise: "Exercise 1 A Paragraph of Me"
+exercise: "Ejercicio 1 Un párrafo sobre mí - Exercise 1 A Paragraph of Me"
 ---
 
 ## Un párrafo sobre mí (plantilla)

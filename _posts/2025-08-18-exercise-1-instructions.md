@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Instructions for Exercise 1"
+title: "Instrucciones Ejercicio 1 - Instructions for Exercise 1"
 author: "Susanna Alles Torrent"
 date: 2025-08-18
-exercise: "Exercise 1 A Paragraph of Me"
+exercise: "Ejercicio 1 Un párrafo sobre mí - Exercise 1 A Paragraph of Me"
 ---
 
 ## Ejercicio 1: Un párrafo sobre mí (Instrucciones)
@@ -29,7 +29,7 @@ Para comenzar nuestra exploración sobre escrituras biográficas, te pedimos que
 
 1. Después de crear tu cuenta en [GitHub](https://github.com/), necesitas ser añadido/a al repositorio "SPA_410_Fall25" como colaborador/a. Si no completaste este paso en clase, envíanos tu nombre de usuario por correo electrónico y te añadiremos.
 2. Una vez añadido/a, accede a nuestro repositorio principal [SPA_410_Fall25](https://github.com/dh-miami/SPA_410_Fall25/tree/main) y luego a la carpeta [_posts](https://github.com/dh-miami/SPA_410_Fall25/tree/main/_posts). Aquí subirás todos tus trabajos durante el semestre.
-3. Para este primer ejercicio hemos creado una [plantilla](https://github.com/dh-miami/SPA_410_Fall25/blob/main/_posts/2025-08-18-Exercise-1-template.md) que puedes utilizar para completar el ejercicio. Haz clic en "Raw" y copia todo el contenido.
+3. Para este primer ejercicio hemos creado una [plantilla](https://github.com/dh-miami/SPA_410_Fall25/blob/main/_posts/2025-08-18-exercise-1-template.md) que puedes utilizar para completar el ejercicio. Haz clic en "Raw" y copia todo el contenido.
 4. Regresa a la carpeta `_posts`, haz clic en "Add file" > "+ Create a new file".
 5. Pega el contenido copiado de la plantilla en el editor.
 6. Nombra tu archivo usando el siguiente formato: `AAAA-MM-DD-Apellido-Exercise-1`. Por ejemplo, para la Prof. Allés sería: `2025-08-18-Alles-Exercise-1.md`. Usa guiones (-) en lugar de espacios y asegúrate de que la fecha esté al inicio.
@@ -64,7 +64,7 @@ To begin our exploration of life writing, we ask you to turn the lens inward. In
 
 1. After creating your [GitHub](https://github.com/), you need to be added to our repository "SPA_410_Fall25" as a contributor. If you did not complete this step in class, just email us your username. 
 2. Once you are added, go to our main repo [SPA_410_Fall25](https://github.com/dh-miami/SPA_410_Fall25/tree/main), and then to the [_posts](https://github.com/dh-miami/SPA_410_Fall25/tree/main/_posts) folder. This is where you will upload all your assignments throughout the semester. 
-3. For this first assigment, we have created a [template](https://github.com/dh-miami/SPA_410_Fall25/blob/main/_posts/2025-08-18-Exercise-1-template.md). Click on "Raw", them copy the entire content. 
+3. For this first assigment, we have created a [template](https://github.com/dh-miami/SPA_410_Fall25/blob/main/_posts/2025-08-18-exercise-1-template.md). Click on "Raw", them copy the entire content. 
 4. Back in the repository of _posts, go to "Add file"  >  "+ Create a new file". 
 5. Paste the content from the template into the editor. 
 6. Name your file using the following format: `YYYY-MM-DD-Surname-Exercise-1`. For example, for Prof. Allés it would be: `2025-08-18-Alles-Exercise-1.md`. Use dashes (-) instead of spaces, and make sure the date comes first.
