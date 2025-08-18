@@ -7,6 +7,8 @@ permalink: /schedule.html
 
 ## **11\. Course Schedule**
 
+Download syllabus and schedule. 
+
 | Week and date | Topics | Technology used |
 | ----- | ----- | ----- |
 | **PART I — Introduction to Digital Literacy and Life Writing**  |   |
@@ -15,7 +17,7 @@ permalink: /schedule.html
 | **Th., Aug. 21  (2)** | Explore [digital projects](https://docs.google.com/document/d/1Kmr75_r1DwM-GS-SIspuSAtVagrjBVDCBmmwKXUyIC4/edit?tab=t.0) (Guidelines provided).  What techniques do DH projects use?  Video: [What is DH](https://drive.google.com/drive/folders/1Jqp_42Q1pe0FVAAZA5pxW-lqY23dZD3A)?  Discussion of student examples. **For next class:** Analysis of a DH \+ Life Writing project.  |  More on GitHub and GitHub Desktop (upload your presentations).  Fast intro to Markup. |
 | **Week 2** | **Introduction to Digital Literacy and Life Writing (II)** |  |
 | **Tu., Aug. 26 (3)** | Discussion and analysis of DH projects. What is data in the Humanities?  Case study: Video and discussion: [Van Gogh's Three Pairs of Shoes](https://drive.google.com/drive/folders/1Jqp_42Q1pe0FVAAZA5pxW-lqY23dZD3A)  Explore [Arts+Science](https://harvardartmuseums.org/tour/39/stop/130). **For next class**: Read Leonor’s *Memorias*.  |  GitHub, GitHub Desktop, Markdown. Upload analysis to GitHub.  |
-| **Th. Aug. 28 (4)** | How to transform a biography into data? Introducing the first autobiographical text in Spanish: **Leonor López de Córdoba.** Exercise: Creating categories of analysis.   **For next class:** 1 paragraph reflection on life writing and digital methods.  | Collection Builder (Jekyll) Basics |
+| **Th. Aug. 28 (4)** | How to transform a biography into data? Introducing the first autobiographical text in Spanish: **Leonor López de Córdoba.** Exercise: Creating categories of analysis. Video: What is Data? **For next class:** 1 paragraph reflection on life writing and digital methods.  | Collection Builder (Jekyll) Basics |
 | **Part II: Writing Lives in the Medieval Ages** |  |  |
 | **Week 3** |  |  |
 | **Tu., Sept 2 (5)** | **Leonor López de Córdoba (1)** Historical context: late medieval Castile. The life of Leonor. What data can we find? Linguistic challenges. **For next day:** Watch [Mujeres en la historia](https://www.rtve.es/play/videos/mujeres-en-la-historia/mujeres-historia-leonor-lopez-cordoba/827016/) (50min.) |  Upload reflection paragraph in GitHub (CB).   |
@@ -47,13 +49,14 @@ permalink: /schedule.html
 | **Th., Oct. 30  (21)** | **Juan Francisco Manzano, *Autobiografía de un esclavo* (1839) (2)** Exploring questions via GPT4All.  Other 19th c. narratives of enslaved people.  **For next class:** Read Anzaldúa’s Borderlands: Chapter 1 |  GPT4All experiments   |
 | **Part III: Contemporary voices**  |  |  |
 | **Week 12**  |  |  |
-| **Tu., Nov. 4  (22)**  | **Gloria Anzaldua (1)** Close Reading of chapter 1  Organization of groups and topics.   **For next class:** Read Chapter 2\.  |  Set up spreadsheets for StoryMaps with Leaflet. |
-| **Th., Nov. 6 (23)** | **Gloria Anzaldua (2)** Discussion and Annotation of Chapter 2 **For next class:** Read Chapter 3\.  |  X |
+| **Tu., Nov. 4  (22)**  | **Gloria Anzaldua (1)** Intro to Anzaldúa’s context, life and work. Close Reading of chapter 1 . Organization of groups and topics - How to put in place a collaborative project . **For next class**: Read Chapter 2.   |  Set up spreadsheets for StoryMaps with Leaflet. |
+| **Th., Nov. 6 (23)** | **Gloria Anzaldua (2)** Discussion and Annotation of Chapter 2. Group 1 guides discussion for chapter 2. Groups 2 and 3 will prepare questions to assist Group 1 **For next class:** Read Chapter 3\.  |  Input spreadsheets for StoryMaps with Leaflet. |
 | **Week 13**  |  |  |
-| **Tu., Nov. 11 (24)** | **Gloria Anzaldua (3)** Discussion of Chapter 3 **For next class:** Read Chapter 5\.  |  X |
-| **Th. Nov, 13  (25)** | **Gloria Anzaldua (4)** Discussion of Chapter 5 **For next class:** work on the content of your projects.  |  X |
+| **Tu., Nov. 11 (24)** | **Gloria Anzaldua (3)** Discussion of Chapter 3. Group 2 will guide discussion for chapter 3. Groups 1 and 3 will prepare questions to assist Group 2 **For next class:** Read Chapter 5\.  |  Input spreadsheets for StoryMaps with Leaflet |
+| **Th. Nov, 13  (25)** | **Gloria Anzaldua (4)** Discussion of Chapter 5. Group 3 will guide discussion for chapter 5. Groups 1 and 2 will prepare questions to assist Group 3
+ **For next class:** work on the content of your projects.  |  Input spreadsheets for StoryMaps with Leaflet. |
 | **Week 14**  |  |  |
-| **Tu., Nov. 18 (26)** | In class work of team projects  |  How to Put in Place a Collaborative Project  |
+| **Tu., Nov. 18 (26)** | In class work of team projects  |  Troubleshooting  |
 | **Th. Nov. 20  (27)** | Pre-final project overview.  Group evaluation of the class (last 20 minute of class)  |  |
 | **Week 15  \- Nov. 25 \- 27 Thanksgiving**  |  |  |
 | **Week 16**  |  |  |

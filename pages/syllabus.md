@@ -23,6 +23,8 @@ We will examine autobiographical and biographical writings that challenge domina
 
 The course is taught in English, but working documents will be in Spanish, so previous knowledge of Spanish is strongly recommended. Finally, this course is ideal for students interested in literature, history, gender studies, digital humanities, and cultural studies. No prior technical experience is required, just curiosity and a willingness to explore new ways of engaging with texts and digital data.
 
+NB: Instructors reserve the right to implement slight changes in the syllabus through the semester if considered needed.
+
 ## **2\. Goals** 
 
 By the end of the course, students will:
@@ -97,6 +99,8 @@ This course emphasizes accessible and sustainable digital scholarship. All tools
   * [https://recogito.pelagios.org/](https://recogito.pelagios.org/)  
 * **Visual Studio Code (VS Code)**: Code editor for working with HTML, Markdown, TEI/XML, and more.  
   * [https://code.visualstudio.com/](https://code.visualstudio.com/)
+* **GPT4ALL**: Framework for hosting local, off-line Large Language Models: 
+  * https://www.nomic.ai/gpt4all 
 
 ## **5\. How does it work?** 
 
