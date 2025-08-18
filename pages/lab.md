@@ -14,7 +14,7 @@ This is the collaborative space where your ideas take shape. Throughout the seme
   <ul>
     {% for post in group.items %}
       <li>
-        {{ post.author}}, <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> — {{ post.date | date: "%B %d, %Y" }}
+        {{ post.author}}, <a href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title }}</a> — {{ post.date | date: "%B %d, %Y" }}
       </li>
     {% endfor %}
   </ul>
