@@ -4,13 +4,9 @@ layout: page
 permalink: /resources.html
 ---
 ## Resources
+  
+Other works left behind:   
 
-* University writing center  
-* Tech support or DH lab (if available)  
-* Accessibility services  
-* Chat GPT, Copilot?   
-* Library and research support (especially for DH tools or special collections  
-* Other works left behind:   
 - Juan Garrido, el conquistador negro en las Antillas, Florida, México y California,1503-1540. [https://archive.org/embed/juan-garrido-by-ricardo-alegria-1990-san-juan-puerto-rico](https://archive.org/embed/juan-garrido-by-ricardo-alegria-1990-san-juan-puerto-rico)   
 - Biographies of soldiers (c. 1500\)  
 - Teresa de Ávila, *Libro de la vida* (1562-65)  
