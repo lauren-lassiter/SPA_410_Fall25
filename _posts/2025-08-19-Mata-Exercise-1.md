@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Un párrafo sobre mí (plantilla)"
+title: "Un párrafo sobre mí"
 author: "Skye Mata"
 date: 2025-08-19
 exercise: "Ejercicio 1 Un párrafo sobre mí - Exercise 1 A Paragraph of Me"
