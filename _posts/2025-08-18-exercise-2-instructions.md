@@ -52,7 +52,7 @@ You will be asked to write a brief critical reflection (1 or 2 paragraphs) analy
 - [Archilet \- Staff](http://www.archilet.it/Staff.aspx)  
 - [Auden Musulin Papers: A digital Edition](https://amp.acdh.oeaw.ac.at/index.html)  
 - [Base biographique — BIU Santé, Université de Paris](https://www.biusante.parisdescartes.fr/histoire/biographies/index.php)  
-- [Bases de données biographiques et réseaux (Fichoz) / Michel Bertrand, Jean-Pierre Dedieu | Canal U](https://www.canal-u.tv/chaines/universite-toulouse-jean-jaures/comprendre-les-mondes-sociaux-2014/bases-de-donnees)  
+- [Bases de données biographiques et réseaux (Fichoz) / Michel Bertrand, Jean-Pierre Dedieu](https://www.canal-u.tv/chaines/universite-toulouse-jean-jaures/comprendre-les-mondes-sociaux-2014/bases-de-donnees)  
 - [Biblioteca Biográfica del Renacimiento Español](http://www.uhu.es/publicaciones/?q=colecciones&code=17)  
 - [Bioguide Search](https://bioguide.congress.gov/search/bio/A000002)  
 - [Browse by name \- Australian Dictionary of Biography](http://adb.anu.edu.au/biographies/name/)  
