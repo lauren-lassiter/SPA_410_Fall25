@@ -3,7 +3,7 @@ layout: page
 title: "Analisis de un proyecto DH - Analysis of a DH project"
 author: "Susanna Alles Torrent"
 date: 2025-08-18
-exercise: "Ejercicio 2 Proyecto HD - Exercise 1 DH Project"
+exercise: "Ejercicio 2 Proyecto HD - Exercise 2 DH Project"
 ---
 ## 🟨 Ejercicio 2: Explorar Proyectos Digitales sobre escrituras biográficas
 
