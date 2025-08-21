@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Un párrafo sobre mí (plantilla)"
-author: "Susanna Alles Torrent"
-date: 2025-08-18
+title: "Un párrafo sobre mí"
+author: "Euge Stumm"
+date: 2025-08-20
 exercise: "Ejercicio 1 Un párrafo sobre mí - Exercise 1 A Paragraph of Me"
 ---
 
